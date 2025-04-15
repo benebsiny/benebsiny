@@ -46,8 +46,4 @@ You can click the Preview link to take a look at your changes.
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benebsiny&layout=compact&count_private=true&theme=tokyonight)]()
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![snake gif](https://github.com/benebsiny/benebsiny/blob/output/github-snake-dark.svg)
