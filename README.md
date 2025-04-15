@@ -1,19 +1,7 @@
 ### Hi there! I'm EBIBO
-- 👀 I’m interested in web development
-- 🌱 I’m currently developing with TypeScript
-- 🚀 I’m bureaucrat and sysop of [YouTube Fandom](https://youtube.fandom.com/zh/wiki/Youtube_Wiki) and [NCS Fandom](https://ncs.fandom.com/zh/wiki/NoCopyrightSounds_Wiki).
-- ❤️ [NCS](https://www.youtube.com/channel/UC_aEa8K-EOJ3D6gOs7HcyNg) is love, [NCS](https://ncs.io) is life <img
-src="https://static.wikia.nocookie.net/ncs/images/f/f6/Red_Circle.png/revision/latest/scale-to-width-down/150?cb=20210502125716&path-prefix=zh" height="20px"><img
-src="https://static.wikia.nocookie.net/ncs/images/1/10/Orange_Circle.png/revision/latest/scale-to-width-down/150?cb=20210502125636&path-prefix=zh" height="20px"><img
-src="https://static.wikia.nocookie.net/ncs/images/b/be/Yellow_Circle.png/revision/latest/scale-to-width-down/150?cb=20210502125741&path-prefix=zh" height="20px"><img
-src="https://static.wikia.nocookie.net/ncs/images/0/02/Green_Circle.png/revision/latest/scale-to-width-down/150?cb=20210502125609&path-prefix=zh" height="20px"><img
-src="https://static.wikia.nocookie.net/ncs/images/e/e3/Blue_Circle.png/revision/latest/scale-to-width-down/150?cb=20210502125544&path-prefix=zh" height="20px"><img
-src="https://static.wikia.nocookie.net/ncs/images/7/76/Pink_Circle.png/revision/latest/scale-to-width-down/150?cb=20210502125651&path-prefix=zh" height="20px"><img
-src="https://static.wikia.nocookie.net/ncs/images/b/b7/Purple_Circle.png/revision/latest/scale-to-width-down/150?cb=20210502125704&path-prefix=zh" height="20px"><img
-src="https://static.wikia.nocookie.net/ncs/images/1/1c/Mint_Circle.png/revision/latest/scale-to-width-down/150?cb=20210502125623&path-prefix=zh" height="20px"><img
-src="https://static.wikia.nocookie.net/ncs/images/6/6b/Cyan_Circle.png/revision/latest/scale-to-width-down/150?cb=20210502125557&path-prefix=zh" height="20px"><img
-src="https://static.wikia.nocookie.net/ncs/images/1/16/Black_Circle.png/revision/latest/scale-to-width-down/150?cb=20210502125529&path-prefix=zh" height="20px"><img
-src="https://static.wikia.nocookie.net/ncs/images/2/20/White_Circle.png/revision/latest/scale-to-width-down/150?cb=20210502125728&path-prefix=zh" height="20px">
+- 👀 I’m interested in web and software development
+- 🌱 I’m currently developing with Django and React.js
+- 🚀 I’m passionate about contributing to open-source projects
 
 <!---
 benebsiny/benebsiny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,6 +30,7 @@ You can click the Preview link to take a look at your changes.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -56,3 +45,9 @@ You can click the Preview link to take a look at your changes.
 [![EBIBO's GitHub stats](https://github-readme-stats.vercel.app/api?username=benebsiny&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)]()
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benebsiny&layout=compact&count_private=true&theme=tokyonight)]()
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
