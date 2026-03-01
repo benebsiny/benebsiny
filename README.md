@@ -34,11 +34,4 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<br>
-<br>
-
-[![EBIBO's GitHub stats](https://github-readme-stats.vercel.app/api?username=benebsiny&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)]()
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benebsiny&layout=compact&count_private=true&theme=tokyonight)]()
-
 ![snake gif](https://github.com/benebsiny/benebsiny/blob/output/github-snake-dark.svg)
